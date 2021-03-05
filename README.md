@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**restugbk/restugbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <tr>
+        <td>
+            <a href="#">
+                <img src="https://github-readme-stats.vercel.app/api?username=restugbk&&show_icons=true&theme=graywhite&count_private=true&hide_border=true&include_all_commits=true&custom_title=Statistics&icon_color=aaaaaa" />
+            </a>
+        </td>
+        <td>
+            <a href="#">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restugbk&theme=graywhite&hide=css%2Chtml&layout=compact&langs_count=10&hide_border=true&card_width=445" />
+            </a>
+        </td>
+    </tr>
+</table>
