@@ -21,5 +21,5 @@
 </table>
 
 <p align="center">
-    <a href="https://wa.me/6285281822916"><img src="https://img.shields.io/badge/Contact Me!-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp" height="25></a>
+    <a href="https://wa.me/6285281822916"><img src="https://img.shields.io/badge/Contact Me!-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp" height=25></a>
 </p>
