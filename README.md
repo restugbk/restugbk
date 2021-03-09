@@ -8,12 +8,12 @@
 <table>
     <tr>
         <td>
-            <a href="https://github-readme-stats.vercel.app/api?username=restugbk&&show_icons=true&theme=graywhite&count_private=true&hide_border=true&include_all_commits=true&custom_title=Statistics&icon_color=aaaaaa">
+            <a href="#">
                 <img src="https://github-readme-stats.vercel.app/api?username=restugbk&&show_icons=true&theme=graywhite&count_private=true&hide_border=true&include_all_commits=true&custom_title=Statistics&icon_color=aaaaaa" />
             </a>
         </td>
         <td>
-            <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=restugbk&theme=graywhite&hide=css%2Chtml&layout=compact&langs_count=10&hide_border=true&card_width=445">
+            <a href="#">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restugbk&theme=graywhite&hide=css%2Chtml&layout=compact&langs_count=10&hide_border=true&card_width=445" />
             </a>
         </td>
